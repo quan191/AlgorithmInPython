@@ -11,5 +11,5 @@ The one and only **Lê Ngọc Anh Quân** - [Link github](https://github.com/qua
 
 ## Target 
 * Master data structure and algorithms
-* Become a international grandmaster ( red rank ) in Code Force 
+* Become an international grandmaster ( red rank ) in Code Force 
 * Use algorithms and data structure in other project
